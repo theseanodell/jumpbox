@@ -18,7 +18,15 @@ gpg> adduid
 gpg> save
 
 gpg --armor --export “key_id”
-export GPG_TTY=$(tty)
+
+### Enable GPG TTY
+
+`vim ~/.bashrc`
+
+Add the following:
+
+`# Enable GPG TTY`
+`export GPG_TTY="$( tty )"`
 
 Add key to Github
 Add Key to Gitlab
