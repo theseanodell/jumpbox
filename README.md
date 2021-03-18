@@ -71,6 +71,10 @@ gh auth login
 
 1. Navigate to [AWS CLI for Linux](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html#cliv2-linux-install) and follow instructions provided.
 
+### [Azure CLI for Linux](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-linux?view=azure-cli-latest&pivots=apt)
+
+1. Navigate to URL from above aand follow instructions provided.
+
 ## Git Config Global
 
 ### Configure Git Global Parameters
