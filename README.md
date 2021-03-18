@@ -1,6 +1,6 @@
 # jumpbox
 
-Generate SSH Key
+## Generate SSH Key
 ssh-keygen -b 4096
 
 Add key to Github
@@ -9,7 +9,7 @@ Add Key to Gitlab
 cat ~/.ssh/id_rsa.pub
 cat ~/.ssh/id_rsa
 
-Create GPG Key
+## Create GPG Key
 gpg --full-generate-key
 gpg --list-secret-keys --keyid-format LONG
  Add 2nd Email
@@ -23,10 +23,11 @@ export GPG_TTY=$(tty)
 Add key to Github
 Add Key to Gitlab
 
-Github CLI
+## Install Packages 
+[] Github CLI
 gh auth login
 
-Git Config Global
+## Git Config Global
 
 git config --global user.signingkey “key_id”
 git config --global user.email "sean.odell@cloudychance.io"
