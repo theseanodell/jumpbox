@@ -33,7 +33,7 @@ Add Key to Gitlab
 
 ## Install Packages, Software and Applications
 
-### Zip
+### Packages
 
 `sudo apt install zip`
 
@@ -62,6 +62,14 @@ gh auth login
 5. Validate Terraform
 
     `terraform version`
+
+### [AWS CLI](https://aws.amazon.com/cli/)
+
+**Run from /tmp directory**
+
+`cd /tmp`
+
+1. Navigate to [AWS CLI for Linux](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html#cliv2-linux-install) and follow instructions provided.
 
 ## Git Config Global
 
