@@ -8,7 +8,7 @@ This is simplified guide to help navigate documentation gathered from many sourc
 
 ### SSH Key
 
-    `ssh-keygen -b 4096`
+    `ssh-keygen -t ed25519`
 
 #### Add Keys to the following:
 
