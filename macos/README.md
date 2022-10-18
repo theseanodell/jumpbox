@@ -32,7 +32,7 @@ This is simplified guide to help navigate documentation gathered from many sourc
 
 iTerm2 can be installed via brew or standard package installation in MacOS
 
-#### Brew Installation
+#### Installation
 
 ```
 brew install iterm2
@@ -41,6 +41,25 @@ brew install iterm2
 #### [iTerm2 Shell Integration](https://iterm2.com/documentation-shell-integration.html)
 
 Not required but recommend. Follow the instructions on the link and follow the ZSH specific instructions.
+
+### [Terraform](https://www.terraform.io/)
+
+Terraform can be installed via brew or standard package installation in MacOS
+
+#### Installation
+
+```
+brew install terraform
+```
+### [GitHub CLI](https://cli.github.com/)
+
+GitHub CLI can be installed via brew or standard package installation in MacOS
+
+#### Installation
+
+```
+brew install gh
+```
 
 ## [OhMyZSH](https://ohmyz.sh/) with [Powerlevel10k Theme](https://github.com/romkatv/powerlevel10k)
 
